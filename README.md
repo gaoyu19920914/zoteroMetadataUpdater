@@ -33,3 +33,7 @@ Credits to:
 I only added a loop to adapt it to multiple entries.
 
 我这里仅仅加了个循环，使之可以一次更新许多条目。
+
+Note: This script is limited to "journalArticle" with DOI, and will return error if conditions are not met.
+
+注意：此程序脚本仅适用于有 DOI 号的期刊文章，条件不满足时会意外停止，返回错误。
