@@ -1,5 +1,15 @@
 # zoteroMetadataUpdater
 
+---
+## NOTICE 提醒
+The plugin [ZotMeta](https://github.com/RoadToDream/ZotMeta) is a more elegant way to update the metadata of entries, and it supports not only research articles, but also books. 
+Therefore I recommend you using it instead of the code in this repo.
+
+[ZotMeta](https://github.com/RoadToDream/ZotMeta) 插件可以优雅地更新元信息，并且支持多种类型的条目，包括研究论文和书籍。因此我推荐您安装使用它，而不是继续用这个项目中的代码啦。
+
+---
+
+
 Update metadata (titles, authors, publications, etc.) of selected entries in Zotero
 
 更新zotero中所选内容的元信息（如标题、作者、期刊等）。
